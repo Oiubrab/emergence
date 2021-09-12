@@ -1,5 +1,5 @@
-.textblock {
-	color: darkred; 
+.text_story_grey {
+	color: DarkGreen; 
 /*	background-color: lightgrey;*/
 	border: 4px;
 /*	border-style: solid;*/
@@ -18,4 +18,17 @@
 	margin: 0 auto;
 	font-family: "Apple Chancery", cursive;
 	text-align:center;
+}
+
+
+div.transbox {
+  margin: 30px;
+  background-color: #ffffff;
+  border: 1px solid black;
+  opacity: 0.6;
+}
+
+div.transbox p {
+  margin: 5%;
+/*  font-weight: bold;*/
 }
