@@ -1,0 +1,76 @@
+.button {
+	border: none;
+	color: white;
+	padding: 32px 32px;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	font-size: 16px;
+	margin: 4px 2px;
+	transition-duration: 0.7s;
+	cursor: pointer;
+}
+
+.button1 {
+	background-color: grey; 
+	color: black; 
+	border: 2px solid indigo;
+}
+
+.button1:hover {
+	background-color: brown;
+	color: white;
+}
+
+.button2 {
+	background-color: grey; 
+	color: black; 
+	border: 2px solid turquoise;
+}
+
+.button2:hover {
+	background-color: brown;
+	color: white;
+}
+
+.button3 {
+	background-color: grey; 
+	color: black; 
+	border: 2px solid red;
+}
+
+.button3:hover {
+	background-color: brown;
+	color: white;
+}
+
+.button4 {
+	font-size: 72px;
+	background-color: darkgrey; 
+	color: black; 
+	border: 2px solid gold;
+}
+
+.button4:hover {
+	background-color: brown;
+	color: white;
+}
+
+.button5 {
+	background-color: grey; 
+	color: black; 
+	border: 2px solid blue;
+}
+
+.button5:hover {
+	background-color: brown;
+	color: white;
+}
+
+.buttoncentre {
+  margin-top: 50px;
+  position: absolute;
+  left: 50%;
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+}

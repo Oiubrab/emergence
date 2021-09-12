@@ -1,0 +1,25 @@
+table, th, td {
+  border: 1px solid black;
+  padding: 15px;
+  text-align: left;
+  border-collapse: collapse;
+}
+
+.obelisk_display {
+	width:100%; 
+	border: 3px solid gold;
+	background-color: brown;
+}
+
+.papyrus_display {
+	width:100%; 
+	table-layout: fixed;
+	border-collapse: collapse;
+	border: 3px solid gold;
+	background-color: lightgrey;
+}
+
+th.obeliskheader {
+	font-family: "Snell Roundhand", cursive;
+	font-size: 30px;
+}

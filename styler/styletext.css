@@ -1,0 +1,21 @@
+.textblock {
+	color: darkred; 
+/*	background-color: lightgrey;*/
+	border: 4px;
+/*	border-style: solid;*/
+/*	border-color: grey;*/
+}
+
+.text_essay_black {
+	color: lightgrey; 
+/*	background-color: lightgrey;*/
+	border: 4px;
+/*	border-style: solid;*/
+/*	border-color: grey;*/
+}
+
+.textcentre {
+	margin: 0 auto;
+	font-family: "Apple Chancery", cursive;
+	text-align:center;
+}
