@@ -5,10 +5,9 @@ table, th, td {
   border-collapse: collapse;
 }
 
-.obelisk_display {
+.chapters {
 	width:100%; 
 	border: 3px solid gold;
-	background-color: brown;
 }
 
 .papyrus_display {
