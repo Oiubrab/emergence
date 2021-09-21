@@ -1,7 +1,15 @@
 .text_story_grey {
-	color: DarkGreen; 
+	color: Green; 
 /*	background-color: lightgrey;*/
 	border: 4px;
+/*	border-style: solid;*/
+/*	border-color: grey;*/
+}
+
+.text_story_grey_italic {
+	color: DarkGreen; 
+	font-style: italic;
+	border: 2px;
 /*	border-style: solid;*/
 /*	border-color: grey;*/
 }
